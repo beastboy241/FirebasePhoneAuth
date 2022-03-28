@@ -17,10 +17,10 @@ This project was bootstrapped with Creat React App.
 
 In the project directory, you can run:
 ```bash
-npm install express --save;
-npm install react-router-dom --save;
-npm install react-scripts --save;
-npm start;
+npm install express --save
+npm install react-router-dom --save
+npm install react-scripts --save
+npm start
 ```
 User Login page:
 ![Screenshot 2022-03-28 104515](https://user-images.githubusercontent.com/31332651/160441735-5db555c1-3ec3-4dba-a65a-9eaee83b762b.png)
