@@ -41,9 +41,11 @@ npm run devStart
   
 
 Components Folder:
-  _`phoneSignUp`_ is a function call for user to sign in by using their phone number
-  _`Home`_ is main page when phone number is validated and direct to home page
+  
+_`phoneSignUp`_ is a function call for user to sign in by using their phone number
+  
+_`Home`_ is main page when phone number is validated and direct to home page
  
- _`UserAuth`_ is a function that used to validate a user by using reCapthcha feature as an extra security
+_`UserAuth`_ is a function that used to validate a user by using reCapthcha feature as an extra security
   
 
