@@ -38,7 +38,9 @@ npm run devStart
   
 ### Firebase 
   A Google-backed application development software that enables developers to develop iOS, Android, and Web apps. It provides tools for tracking analytic, reporting, and product experiment
-  Components Folder:
+  
+
+Components Folder:
   _`phoneSignUp`_ is a function call for user to sign in by using their phone number
   _`Home`_ is main page when phone number is validated and direct to home page
  
