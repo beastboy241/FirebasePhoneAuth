@@ -15,7 +15,7 @@ This project was bootstrapped with Creat React App.
 | CSS          |  9.0%     |
 | HTML         | 1.9%      |
 
-In the project directory, you can run:
+In the project directory, run the following command to initialize the project:
 ```bash
 npm install express --save
 npm install react-router-dom --save
