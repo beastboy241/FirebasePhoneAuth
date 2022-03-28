@@ -32,3 +32,16 @@ Or to run in development mode
 ```bash
 npm run devStart
 ```
+### Frameworks/libraries
+### React 
+  An open-source, front end, javaScript library for building user interfaces and UI components.
+  
+### Firebase 
+  A Google-backed application development software that enables developers to develop iOS, Android, and Web apps. It provides tools for tracking analytic, reporting, and product experiment
+  Components Folder:
+  _`phoneSignUp`_ is a function call for user to sign in by using their phone number
+  _`Home`_ is main page when phone number is validated and direct to home page
+ 
+ _`UserAuth`_ is a function that used to validate a user by using reCapthcha feature as an extra security
+  
+
